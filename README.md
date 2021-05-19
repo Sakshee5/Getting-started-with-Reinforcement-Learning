@@ -11,7 +11,7 @@ This is an introduction to Reinforcement Learning using Q-Learning and Deep Q-Le
    4. Bellman Optimality Equation (Optimal policy, Optimal Q function, Learning Rate)
    
 ## 2. Deep Q-Learning
-   DQN is demonstrated using OpenAI's Cart Pole Environment. You can read more about the environment [Here](https://gym.openai.com/envs/CartPole-v1/).
+   Deep Q Network is demonstrated using OpenAI's Cart Pole Environment. You can read more about the environment [Here](https://gym.openai.com/envs/CartPole-v1/).
    #### RL concepts used beside the ones stated above: 
    1. Artificial Neural Network Architecture
    2. Experience Replay
