@@ -16,3 +16,5 @@ This is an introduction to Reinforcement Learning using Q-Learning and Deep Q-Le
    1. Artificial Neural Network Architecture
    2. Experience Replay
    3. Training and Target Networks
+
+P.S. Both codes are well commented/documented for ease of understanding.
